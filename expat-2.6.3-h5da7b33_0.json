@@ -1,0 +1,49 @@
+{
+  "build": "h5da7b33_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\expat-2.6.3-h5da7b33_0",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/bin/xmlwf.exe",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.6.3/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.6.3/expat-config.cmake",
+    "Library/lib/cmake/expat-2.6.3/expat-release.cmake",
+    "Library/lib/cmake/expat-2.6.3/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog",
+    "Library/share/man/man1/xmlwf.1",
+    ".nonadmin"
+  ],
+  "fn": "expat-2.6.3-h5da7b33_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\expat-2.6.3-h5da7b33_0",
+    "type": 1
+  },
+  "md5": "0b0d607bdcafa9afa17671242a6deb29",
+  "name": "expat",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\expat-2.6.3-h5da7b33_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::expat==2.6.3=h5da7b33_0[md5=0b0d607bdcafa9afa17671242a6deb29]",
+  "sha256": "ad23f3f7a88f884cdb5ce1c926107077c89fa5154a6cde6596b1c41d5a6e3fb0",
+  "size": 261845,
+  "subdir": "win-64",
+  "timestamp": 1725543405000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/expat-2.6.3-h5da7b33_0.conda",
+  "version": "2.6.3"
+}
